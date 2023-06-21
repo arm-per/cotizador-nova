@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="379e5aff-1b0a-4b08-8bdf-f4ed6c78cdee" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/aws.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/refactorNovaCotizador.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/add.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/back.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/delete.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/down-arrow.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/download.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/Icons/list.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assets/nova_color.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/Quote.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SearchBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/SmallCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Back.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/BodyCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Button.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/ButtonLink.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/DeleteButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/DescriptionCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Empty.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/FixedElement.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Header.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Input.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/InputsBar.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Price.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/PrintHeader.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/Search.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/StudiesButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/StudiesContainer.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/StudyCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/TextButton.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/TitleCard.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Components/UiComponents/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context/LabsContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Context/QuoterContext.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/GlobalStyles.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/data.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Helpers/getPrices.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useLabs.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useLabsContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useMocks.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Hooks/useQuoterContext.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Home.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Pages/Quoter.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/PrintView.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Routes/App.jsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UIelements/colors.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UIelements/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/UIelements/transparentize.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/__mocks__/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/webpack.config.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectId" id="26DIHbdI3XBDYucyuGfeiQZuFZS" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;dart.analysis.tool.window.visible&quot;: &quot;false&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Assets" />
+      <recent name="$PROJECT_DIR$/src/Routes" />
+      <recent name="$PROJECT_DIR$/src/Components/UiComponents" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="379e5aff-1b0a-4b08-8bdf-f4ed6c78cdee" name="Changes" comment="" />
+      <created>1646951643648</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1646951643648</updated>
+      <workItem from="1646951644742" duration="3959000" />
+      <workItem from="1647219287917" duration="3000" />
+      <workItem from="1648098479070" duration="427000" />
+      <workItem from="1648098927610" duration="9323000" />
+      <workItem from="1648160507432" duration="9755000" />
+      <workItem from="1648251663657" duration="2953000" />
+      <workItem from="1648415039127" duration="6852000" />
+      <workItem from="1648505174159" duration="11512000" />
+      <workItem from="1648592770278" duration="8666000" />
+      <workItem from="1648678720968" duration="8654000" />
+      <workItem from="1648862970924" duration="10752000" />
+      <workItem from="1649091881336" duration="271000" />
+      <workItem from="1649107105781" duration="815000" />
+      <workItem from="1649802173731" duration="1132000" />
+      <workItem from="1650000856369" duration="3303000" />
+      <workItem from="1650005509441" duration="1096000" />
+      <workItem from="1650388382119" duration="523000" />
+      <workItem from="1654039037320" duration="686000" />
+      <workItem from="1656783694452" duration="1907000" />
+      <workItem from="1658457917244" duration="3238000" />
+      <workItem from="1670354318389" duration="824000" />
+      <workItem from="1676932571950" duration="694000" />
+      <workItem from="1678816593144" duration="1911000" />
+      <workItem from="1678833507903" duration="616000" />
+      <workItem from="1679536672495" duration="2000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
