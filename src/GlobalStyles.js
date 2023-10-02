@@ -43,6 +43,7 @@ const GlobalStyles = createGlobalStyle`
   
   .nameTitle{
     color: ${colors.blue["500"]};
+    marginInline: 21px;
   }
   #maintable{
     width: 100%;

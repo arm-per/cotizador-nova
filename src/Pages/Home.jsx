@@ -9,7 +9,7 @@ import useLabsContext from "../Hooks/useLabsContext";
 const Home = () => {
 
     const {name} = useQuoterContext()
-    const {filtered} = useLabsContext()
+    const {filtered, loading, Loader} = useLabsContext()
 
     return <Fragment>
         <SearchBar/>
@@ -20,12 +20,18 @@ const Home = () => {
             <section className="cards-layout">
                 {
                     filtered.length >= 1
-                    ?filtered.map((el, index) => <SmallCard
+                    ? !loading && filtered.map((el, index) => <SmallCard
                         title={el.name}
                         description={el.request}
                         price={el.public_cost}
                         key={`card_${index}`}/>)
-                    :<p className="nostudies">No se han encontrado estudios</p>
+                        : <p>No se han encontrado los estudios</p>
+                }
+                {
+                    console.log('homepage', loading)
+                }
+                {
+                    (loading && filtered.length >= 1 ) && <Loader>Cargando</Loader>
                 }
             </section>
         </div>

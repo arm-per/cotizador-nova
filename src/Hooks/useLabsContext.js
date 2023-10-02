@@ -3,9 +3,9 @@ import LabsContext from "../Context/LabsContext";
 
 const useLabsContext = () => {
     const context = useContext(LabsContext);
-    const {findLab, filtered} = context;
+    const {findLab, filtered, loading, Loader} = context;
 
-    return {findLab, filtered};
+    return {findLab, filtered, loading, Loader};
 }
 
 export default useLabsContext;
